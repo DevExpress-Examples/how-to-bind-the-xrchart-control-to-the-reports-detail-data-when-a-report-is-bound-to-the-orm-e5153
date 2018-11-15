@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CategoriesChartReport.cs](./CS/E5153/CategoriesChartReport.cs) (VB: [CategoriesChartReport.vb](./VB/E5153/CategoriesChartReport.vb))**
+* [Default.aspx](./CS/E5153/Default.aspx) (VB: [Default.aspx](./VB/E5153/Default.aspx))
+<!-- default file list end -->
 # How to bind the XRChart control to the report's detail data when a report is bound to the ORM(Entity Framework) data source 
 
 
