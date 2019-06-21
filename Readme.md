@@ -5,6 +5,9 @@
 * [Default.aspx](./CS/E5153/Default.aspx) (VB: [Default.aspx](./VB/E5153/Default.aspx))
 <!-- default file list end -->
 # How to bind the XRChart control to the report's detail data when a report is bound to the ORM(Entity Framework) data source 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5153)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to bind the report's <a href="https://documentation.devexpress.com/#XtraReports/clsDevExpressXtraReportsUIXRCharttopic"><u>XRChart</u></a> control to detail data when a report is bound to the collection of data classes. The Entity Framework ORM is used in this example as a report's data source.</p><br />
