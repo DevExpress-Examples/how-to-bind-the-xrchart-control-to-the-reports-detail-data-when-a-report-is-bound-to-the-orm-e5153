@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to bind the XRChart control to the report's detail data when a report is bound to the ORM(Entity Framework) data source 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e5153)**
+**[[Run Online]](https://codecentral.devexpress.com/e5153/)**
 <!-- run online end -->
 
 
